@@ -13,10 +13,6 @@
 
 <!--### Languages and Tools:-->
 
-
-<br />
-<br />
-
 [website]: https://www.realima.tech
 [instagram]: https://www.instagram.com/realima.tech/
 [twitter]: https://twitter.com/realima_tech
