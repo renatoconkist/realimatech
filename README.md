@@ -4,8 +4,8 @@
 
 ### Connect with me:
 [![](https://img.shields.io/static/v1?label=&message=Website&color=blue)](website)
-[![](https://img.shields.io/static/v1?label=Instagram&message=10k&labelColor=E4405F&color=333&logo=instagram&logoColor=white)](instagram)
-[![](https://img.shields.io/static/v1?label=Twitter&message=10k&labelColor=blue&color=333&logo=twitter&logoColor=white)](twitter)
+[![](https://img.shields.io/static/v1?&label=&message=Instagram&color=E4405F&logo=instagram&logoColor=white)](instagram)
+[![](https://img.shields.io/twitter/follow/realima_tech?color=333&logo=twitter&labelColor=blue&logoColor=white&style=flat)](twitter)
 [![](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin)](linkedin)
 [![](https://img.shields.io/static/v1?label=&message=Itch.io&color=FA5C5C&logo=itchdotio&logoColor=white)](itchio)
 
