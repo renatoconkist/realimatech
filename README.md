@@ -2,8 +2,6 @@
 
 ### I'm a Unity Developer who loves to see people happy 😊
 
-<br />
-
 ### Connect with me:
 [![](https://img.shields.io/static/v1?label=&message=Website&color=blue)](website)
 [![](https://img.shields.io/static/v1?label=Instagram&message=10k&labelColor=E4405F&color=333&logo=instagram&logoColor=white)](instagram)
